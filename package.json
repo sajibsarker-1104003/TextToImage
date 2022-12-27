@@ -1,0 +1,37 @@
+{
+  "name": "ai-texttoimage_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.1",
+    "coingecko-api": "^1.0.10",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "deepai": "^1.0.21",
+    "dotenv": "^16.0.1",
+    "easy-currencies": "^1.7.0",
+    "exchange-rate": "^1.0.1",
+    "express": "^4.18.1",
+    "formidable": "^2.1.1",
+    "google-currency": "^1.0.7",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.4.6",
+    "multer": "^1.4.5-lts.1",
+    "multicoin-address-validator": "^0.5.11",
+    "nodemon": "^2.0.19",
+    "random-number": "^0.0.9",
+    "twilio": "^3.80.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
